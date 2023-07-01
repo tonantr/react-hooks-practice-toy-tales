@@ -8,7 +8,7 @@ function ToyForm() {
         <input
           type="text"
           name="name"
-          placeholder="Enter a toy's name..."
+          placeholder="Enter a toy's name...."
           className="input-text"
         />
         <br />
